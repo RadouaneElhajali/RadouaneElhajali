@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/RadouaneElhajali/RadouaneElhajali/blob/main/Luffy.gif" alt=" Luffy with his grandfather says Yo ">
+	<img width="400" height="400" src="https://github.com/RadouaneElhajali/RadouaneElhajali/blob/main/Luffy.gif" alt=" Luffy with his grandfather says Yo ">
 </div>
 
 ![PKI](https://img.shields.io/badge/PKI-mTLS-green)
