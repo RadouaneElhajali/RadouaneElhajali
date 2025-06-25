@@ -3,7 +3,6 @@
 </div>
 
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco)
-![PKI](https://img.shields.io/badge/PKI-mTLS-green)
 ![IPv4&v6](https://img.shields.io/badge/Networking-DualStack-blue)
 ![IPsec](https://img.shields.io/badge/IPsec-Tunnel--mode-brightgreen)
 ![BGP](https://img.shields.io/badge/BGP-eBGP-orange)
@@ -16,7 +15,6 @@
 ![Honeypot](https://img.shields.io/badge/Honeypot-Cowrie-yellow)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-3.x-lightgrey)
 ![Zero Trust](https://img.shields.io/badge/Zero--Trust-Architecture-important)
-![CI](https://img.shields.io/github/actions/workflow/status/<USER>/<REPO>/build.yml?label=CI&logo=github)
 
 ![Docker](https://img.shields.io/badge/Docker-Compose-blue?logo=docker)
 ![Ansible](https://img.shields.io/badge/Ansible-Playbooks-red?logo=ansible)
